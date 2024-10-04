@@ -1,0 +1,53 @@
+Tipo,Data,Dia_Da_Semana,Curtidas,Comentários,Interacoes,Tags,Pessoas,Campanhas,Carrossel
+Foto,2021-09-11,Saturday,2858,16,2874,Loja,N,N,N
+Foto,2021-09-11,Saturday,2930,28,2958,Loja/Produtos,N,N,N
+Foto,2021-09-11,Saturday,2807,9,2816,Loja,N,N,N
+Vídeo,2021-09-12,Sunday,5115,49,5164,Produtos,N,N,N
+Foto,2021-09-13,Monday,4392,45,4437,Produtos,S,N,N
+Foto,2021-09-17,Friday,5359,62,5421,Novos Produtos,N,S,S
+Foto,2021-09-19,Sunday,21597,852,22449,Novos Produtos,S,S,N
+Foto,2021-09-25,Saturday,6346,33,6379,Produtos,N,S,N
+Foto,2021-09-27,Monday,6355,89,6444,Produtos,S,N,S
+Vídeo,2021-09-28,Tuesday,4056,81,4137,Produtos,N,N,N
+Reels,2021-10-10,Sunday,12894,249,13143,Trends/Produtos,S,N,N
+Foto,2021-10-12,Tuesday,17831,391,18222,Sem Tag,S,S,N
+Foto,2021-10-21,Thursday,6166,55,6221,Novos Produtos,S,S,S
+Foto,2021-10-24,Sunday,15940,612,16552,Promoções,S,N,N
+Foto,2021-10-29,Friday,14121,184,14305,Datas comemorativas,S,S,N
+Vídeo,2021-11-04,Thursday,3646,71,3717,Produtos,N,N,N
+Reels,2021-11-06,Saturday,6376,137,6513,Produtos,N,N,N
+Vídeo,2021-11-09,Tuesday,3213,60,3273,Produtos,N,N,N
+Reels,2021-11-12,Friday,5493,59,5552,Produtos,N,N,N
+Foto,2021-12-12,Sunday,16085,268,16354,Sem Tag,S,S,N
+Foto,2021-12-16,Thursday,2881,29,2910,Produtos,N,N,N
+Foto,2021-12-23,Thursday,8328,93,8421,Produtos,S,N,S
+Foto,2021-12-26,Sunday,18097,225,18322,Influenciadores,S,S,N
+Foto,2021-12-28,Tuesday,8191,94,8285,Influenciadores,S,N,N
+Vídeo,2021-12-30,Thursday,17600,383,17983,Trends,S,S,N
+Foto,2021-01-02,Saturday,12193,138,12331,Novos Produtos,S,N,S
+Foto,2021-01-08,Friday,24585,354,24939,Datas comemorativas,S,S,S
+Foto,2021-01-11,Monday,16067,265,16332,Novos Produtos,S,N,N
+Foto,2021-01-15,Friday,9936,119,10055,Novos Produtos,S,N,S
+Foto,2021-01-19,Tuesday,8612,142,8754,Sem Tag,S,N,N
+Reels,2021-01-24,Sunday,29981,502,30483,Trends,S,S,N
+Foto,2021-01-27,Wednesday,10019,103,10122,Novos Produtos,S,N,N
+IGTV,2021-02-04,Thursday,9270,222,9492,Dicas de como usar/Produtos,S,N,N
+Foto,2021-02-06,Saturday,24655,186,24841,Influenciadores,S,S,N
+Foto,2021-02-09,Tuesday,20660,292,20952,Influenciadores,S,S,N
+IGTV,2021-02-10,Wednesday,8556,188,8744,Dicas de como usar/Produtos,S,N,N
+Foto,2021-02-12,Friday,11802,102,11904,Produtos,S,S,N
+Vídeo,2021-02-13,Saturday,15219,357,15576,Datas comemorativas,S,S,N
+Foto,2021-02-15,Monday,17687,213,17900,Sem Tag,S,N,N
+Foto,2021-02-17,Wednesday,37351,502,37853,Promoções,S,S,N
+Foto,2021-02-21,Sunday,21621,213,21834,Influenciadores,S,S,S
+Foto,2021-02-22,Monday,12530,90,12620,Sem Tag,S,N,N
+Foto,2021-02-26,Friday,8544,72,8616,Influenciadores,S,S,N
+Foto,2021-03-04,Thursday,24399,266,24665,Sem Tag,S,S,N
+IGTV,2021-03-07,Sunday,5918,116,6034,Dicas de como usar/Novos Produtos,S,N,N
+Reels,2021-03-08,Monday,19621,275,19896,Trends,S,S,N
+Foto,2021-03-09,Tuesday,4613,50,4663,Influenciadores,S,N,N
+IGTV,2021-03-12,Friday,5489,77,5566,Dicas de como usar/Novos Produtos,S,N,N
+Foto,2021-03-20,Saturday,29084,479,29563,Datas comemorativas/Promoções,S,S,N
+Foto,2021-03-22,Monday,9087,106,9193,Sem Tag,S,S,N
+Foto,2021-03-26,Friday,16551,186,16737,Sem Tag,S,N,N
+IGTV,2021-03-27,Saturday,4934,65,4999,Dicas de como usar/Produtos,S,N,N
