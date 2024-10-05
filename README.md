@@ -3,15 +3,15 @@
 ![Wallpaper](images/wallpaper.png)
 
 ## Projeto
-**Análise exploratória** das principais causas de churn em uma telecom.
+**Análise exploratória** do engajamento de redes sociais em uma empresa de mídias sociais.
 
 
 ## Objetivo
-O objetivo do projeto é, a partir dos dados fornecidos pela equipe de Negócio, realizar uma **ampla análise exploratória** para identificar as principais causas de churn em uma empresa de telecomunicações.
+O objetivo do projeto é, a partir dos dados fornecidos pela equipe de Marketing, realizar uma **ampla análise exploratória** para identificar os pontos que podem ser melhorados nas postagens da empresa para que seu engajamento evolua.
 
 
 ## Descrição
-Nesse projeto de Análise de Dados foi realizada uma ampla análise exploratória gerando insights do projeto e permitindo identificar as principais causas de churn em uma telecom. Para isso foram utilizados indicadores estatísticos de histogramas, boxplots, mapa de calor e gráfico de correlações, a fim de ressaltar as principais diferenças no comportamento dos clientes que cancelam o serviço. Com base nos resultados encontrados nesse projeto, é possível fazer um grande trabalho com as demais áreas da empresa para que seja traçado um plano de ação afim de reduzir o índice de churn dos clientes.
+Nesse projeto de Análise de Dados foi realizada uma ampla análise exploratória gerando insights do projeto e permitindo identificar os pontos que podem ser melhorados nas postagens da empresa para que seu engajamento evolua. Para isso foram utilizados indicadores estatísticos a fim de ressaltar os principais pontos de melhoria. Com base nos resultados encontrados nesse projeto, é possível fazer um trabalho com a área de Marketing para que as novas postagens tenham uma performance melhor no engajamento com seus clientes.
 
 
 ## Bibliotecas
@@ -46,5 +46,3 @@ Nesse projeto de Análise de Dados foi realizada uma ampla análise exploratóri
 ![EDA_03](images/output_resultados_eda_03.png)
 
 ![EDA_04](images/output_resultados_eda_04.png)
-
-![EDA_05](images/output_resultados_eda_05.png)
